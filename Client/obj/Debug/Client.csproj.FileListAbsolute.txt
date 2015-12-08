@@ -1,0 +1,6 @@
+c:\users\sbuddala\documents\visual studio 2013\Projects\TokenDemo\Client\bin\Client.dll.config
+c:\users\sbuddala\documents\visual studio 2013\Projects\TokenDemo\Client\bin\Client.dll
+c:\users\sbuddala\documents\visual studio 2013\Projects\TokenDemo\Client\bin\Client.pdb
+c:\users\sbuddala\documents\visual studio 2013\Projects\TokenDemo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\sbuddala\documents\visual studio 2013\Projects\TokenDemo\Client\obj\Debug\Client.dll
+c:\users\sbuddala\documents\visual studio 2013\Projects\TokenDemo\Client\obj\Debug\Client.pdb
